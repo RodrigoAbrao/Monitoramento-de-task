@@ -149,3 +149,5 @@ console.error: "Unable to find target with innerWindowId:6442450979"
 console.error: "Unable to find target with innerWindowId:6442450979"
 console.error: "Unable to find target with innerWindowId:6442450979"
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1683420113367	Marionette	INFO	Stopped listening on port 60981
+Dynamically enable window occlusion 1
