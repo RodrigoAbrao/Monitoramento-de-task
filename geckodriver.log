@@ -1,0 +1,124 @@
+1683418070903	geckodriver	INFO	Listening on 127.0.0.1:60585
+1683418182993	geckodriver	INFO	Listening on 127.0.0.1:60825
+1683418186039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHOENIX\\AppData\\Local\\Temp\\rust_mozprofileInboud"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683418186658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683418186666	Marionette	INFO	Listening on port 60843
+Read port: 60843
+WebDriver BiDi listening on ws://127.0.0.1:60826
+1683418187284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PHOENIX\\AppData\\Local\\Temp\\rust_mozprofileInboud\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60826/devtools/browser/018f0ce9-e3a1-485d-8e60-c4c2b331c625
+1683418193239	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://identity.appen.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=0V2Vs7wYlJsjNkqcBF1lgME9Q0qBxoHY1EXbAGToa1V9dEx7EsNw43Xioh3XFpzqkqUztM9LcQW9tTNQSdgz8FI5j01UPTQqKZq4aCUunmnSG496T6vc7vRMq4sXN3Z9yoC287jG9mS9G4QU5UdMfPTGflcwj&x-kpsdk-v=j-0.0.0, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1683418226457	Marionette	INFO	Stopped listening on port 60841683418227200	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\PHOENIX\\AppData\\Local\\Temp\\rust_mozprofiledVJHpk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683418227665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683418227672	Marionette	INFO	Listening on port 60981
+Read port: 60981
+WebDriver BiDi listening on ws://127.0.0.1:60962
+1683418227888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PHOENIX\\AppData\\Local\\Temp\\rust_mozprofiledVJHpk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60962/devtools/browser/d37b3507-33d0-4e9f-adf7-444e46b6e1f2
+1683418235092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.sardine.ai/assets/collector.451dfc0.js, line 253: WebGL context was lost.
+JavaScript warning: https://identity.appen.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDz=0ObFincZ9J8zewuwoz9xXG2mpsNFHXIEp8sre3oKuQfFvCwNwc55SP5J5pWhPubNUvDIKWUHtzZ4WM1er6EMEZuUn8VsLfPdmS4W4vGSksFuF8ref3JZFVdQwdY6t8UPYPAXGVyG5RUV7wAFN15swITkAysuC&x-kpsdk-v=j-0.0.0, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.appen.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identity.appen.com."
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.error: "Unable to find target with innerWindowId:6442450961"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://connect.appen.com."
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450965"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450970"
+console.error: "Unable to find target with innerWindowId:6442450970"
+console.error: "Unable to find target with innerWindowId:6442450970"
+console.error: "Unable to find target with innerWindowId:6442450970"
+console.error: "Unable to find target with innerWindowId:6442450970"
+console.error: "Unable to find target with innerWindowId:6442450970"
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450975"
+console.error: "Unable to find target with innerWindowId:6442450975"
+console.error: "Unable to find target with innerWindowId:6442450975"
+console.error: "Unable to find target with innerWindowId:6442450975"
+console.error: "Unable to find target with innerWindowId:6442450975"
+console.error: "Unable to find target with innerWindowId:6442450975"
+console.error: "Unable to find target with innerWindowId:6442450976"
+console.error: "Unable to find target with innerWindowId:6442450976"
+console.error: "Unable to find target with innerWindowId:6442450976"
+console.error: "Unable to find target with innerWindowId:6442450976"
+console.error: "Unable to find target with innerWindowId:6442450976"
+console.error: "Unable to find target with innerWindowId:6442450976"
